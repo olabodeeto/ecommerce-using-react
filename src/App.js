@@ -61,7 +61,7 @@ function App() {
           <img className="w-60" src={loadingimg} alt="" />
         </div>
         <div
-          className="grid grid-cols-1 sm:grid-cols-2  lg:grid-cols-3 gap-4 
+          className="grid grid-cols-2 sm:grid-cols-2  lg:grid-cols-3 gap-4 
         items-end bg-red-400 p-5 mt-10 md:mt-20"
         >
           {productList}
