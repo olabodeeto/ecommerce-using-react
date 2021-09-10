@@ -9,7 +9,7 @@ export default function Header() {
   return (
     <>
       <div className="p-5 bg-red-500 fixed top-0 w-full z-50 ">
-        <div className="flex justify-between sm:w-8/12 m-auto">
+        <div className="flex justify-between sm:w-10/12 m-auto">
           <Link to="/">
             <div className="flex text-4xl text-yellow-200 font-semibold">
               fast
